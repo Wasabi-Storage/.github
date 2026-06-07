@@ -78,7 +78,7 @@ Restore taking too long? Test network throughput, object counts, and the restore
 Retention not protected? Enable immutable storage settings before regulated backup chains are written.  
 Migration feels complex? Move one workload first, validate wasabi object storage behavior, then expand data storage in phases.
 
-![Wasabi cloud storage workflow from applications to protected object storage](https://cdn.document360.io/bef0a1ea-7768-4d5a-b520-c4fe2f7fafad/Images/Documentation/image-1748894130023.png)
+![Wasabi cloud storage workflow from applications to protected object storage](https://www.microlite.com/s3/wasabi/images/wasabi-showbucket.png)
 
 ## Related Search Terms
 
